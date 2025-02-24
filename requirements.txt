@@ -1,4 +1,13 @@
-streamlit
-pandas
+Flask
+matplotlib.pyplot
 numpy
-scikit-learn
+opencv-python
+pandas
+pickle
+seaborn
+sklearn.ensemble
+sklearn.linear_model
+sklearn.metrics
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.svm
