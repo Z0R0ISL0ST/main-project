@@ -3,11 +3,5 @@ matplotlib
 numpy
 opencv-python
 pandas
-pickle
 seaborn
-sklearn.ensemble
-sklearn.linear_model
-sklearn.metrics
-sklearn.model_selection
-sklearn.preprocessing
-sklearn.svm
+scikit-learn
